@@ -1,0 +1,4 @@
+-- INSERT INTO sales (customer_name, product_name, volume, is_recurring)
+-- VALUES ('Mash Ray', 'Book', 12.99, TRUE);
+-- INSERT INTO sales (date_fulfilled, customer_name, product_name, volume, is_recurring, is_disputed)
+-- VALUES (NULL, 'Safa', 'My Brain', 100, TRUE, TRUE), ('2030-01-01', 'A Girl', 'Nothing', 100, FALSE, FALSE);

@@ -10,8 +10,8 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "MySQL",
+            "database": "sales",
             "username": "root",
-            "database": "shop",
             "askForPassword": true
         },
         {
@@ -21,7 +21,7 @@
             "askForPassword": true,
             "driver": "PostgreSQL",
             "name": "PostgreSQL",
-            "database": "shop",
+            "database": "sales",
             "username": "postgres"
         }
     ]
